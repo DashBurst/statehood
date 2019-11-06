@@ -17,7 +17,7 @@
       "hoek": "2.x.x",
       "boom": "2.x.x",
       "items": "1.x.x",
-      "cryptiles": "2.x.x",
+      "cryptiles": "4.x.x",
       "iron": "2.x.x"
   },
   "devDependencies": {
